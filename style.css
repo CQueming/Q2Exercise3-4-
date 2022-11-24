@@ -1,0 +1,82 @@
+#div1{
+          border-style: line;
+
+          border-color: #928AC1;
+          margin: 15%;
+          padding: 12px;
+
+       }
+       #product{
+             font-family: 'Noto Sans Mono' sans-serif;
+             font-size: 14pt;
+             text-align: left;
+             margin-left: 20px;
+             margin-right: 20px;
+            color: white;
+
+       }
+       #name{
+
+           color: #6B23AF;
+       }
+       #price{
+             margin-top: 25px;
+             margin-bottom: 25px;
+             font-family: '' sans-serif;
+             font-size: 50pt;
+             text-align: center;
+              color: #6928A5;
+       }
+       #specs{
+            color: white;
+       }
+         #specs2{
+            color: white;
+       }
+        #specs3{
+            color: white;
+       }
+        #ref{
+            color: white;
+       }
+        #ref2{
+            color: white;
+       }
+       
+
+       body{
+              background-color:#150A1F;
+       }
+
+       img{
+             height: 75%;
+             width: 75%;
+             margin-left: 70px;
+             margin-right: 150px;
+
+             border: 1px solid #ddd;
+             border-radius: 4px;
+             padding: 5px;
+       }
+       h4{
+              font-family: 'Dancing Script', sans-serif;
+              font-size: 54pt;
+              text-align: center;
+              margin-top: 25px;
+              margin-bottom: 25px;
+       }
+       button {
+              border: none;
+              border-radius: 6px;
+              outline: 0;
+              display: inline-block;
+              padding: 12px;
+              color: black;
+              background-color: #blue ;
+              text-align: center;
+              cursor: pointer;
+              width: 45%;
+              font-size: ;
+              margin-left: 300px;
+
+       }
